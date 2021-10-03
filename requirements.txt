@@ -3,8 +3,6 @@ certifi==2021.5.30
 charset-normalizer==2.0.6
 colorama==0.4.4
 docutils==0.17.1
-# Editable install with no version control (harrix-test-package==0.1)
--e c:\projects\harrix-test-package\src
 idna==3.2
 importlib-metadata==4.8.1
 keyring==23.2.1
