@@ -8,6 +8,10 @@ Test package.
 pip install harrix-test-package
 ```
 
+```console
+pipenv install harrix-test-package
+```
+
 ## Using
 
 ```py
