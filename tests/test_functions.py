@@ -16,6 +16,10 @@ class TestHarrixTestPackage(unittest.TestCase):
         re = h.multiply_20(2)
         self.assertEqual(re, 40)
 
+    def test_multiply_30(self):
+        re = h.multiply_30(2)
+        self.assertEqual(re, 60)
+
 
 if __name__ == '__main__':
     unittest.main()

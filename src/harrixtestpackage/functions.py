@@ -6,3 +6,6 @@ def multiply_10(x):
 
 def multiply_20(x):
     return x * 20
+
+def multiply_30(x):
+    return x * 30
