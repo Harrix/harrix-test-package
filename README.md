@@ -9,13 +9,13 @@ pip install harrix-test-package
 ```
 
 ```console
-pipenv install harrix-test-package
+rye add harrix-test-package
 ```
 
 ## Using
 
-```py
-import harrixtestpackage as h
+```python
+import harrix_test_package as h
 
 
 print(h.multiply_2(2))
