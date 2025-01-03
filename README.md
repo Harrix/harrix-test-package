@@ -4,11 +4,11 @@ Test package.
 
 ## Install
 
-```console
+```shell
 pip install harrix-test-package
 ```
 
-```console
+```shell
 rye add harrix-test-package
 ```
 
