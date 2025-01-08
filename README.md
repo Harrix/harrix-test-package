@@ -9,7 +9,7 @@ pip install harrix-test-package
 ```
 
 ```shell
-rye add harrix-test-package
+uv add harrix-test-package
 ```
 
 ## Using
